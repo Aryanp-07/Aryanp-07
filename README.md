@@ -43,6 +43,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryanp-07&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aryanp-07&theme=git-dark&hide_border=true&border_radius=7)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanp-07&layout=compact&theme=vision-friendly-dark)](https://github.com/aryanp-07/github-readme-stats) 
