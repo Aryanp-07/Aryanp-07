@@ -32,6 +32,17 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanp-07&show_icons=true&locale=en&layout=compact" alt="aryanp-07" /></p>
+| <a href="https://github.com/aryanp-07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanp-07&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aryan's github stats" /></a> | <a href="https://github.com/aryanp-07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanp-07&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/aryanp-07/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanp-07&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/aryanp-07/aryanp-07.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanp-07&repo=aryanp-07.github.io&theme=buefy" />
+</a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aryanp-07&label=Profile%20views&color=0e75b6&style=flat" alt="aryanp-07" /> </p>
