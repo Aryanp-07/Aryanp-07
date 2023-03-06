@@ -1,7 +1,5 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <h1 align="center">Hi, I'm Aryan Patnaik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="center">A passionate coder trying to gain experience</h3>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="aryan-patnaik-ab977b242" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/aryan-patnaik-ab977b242?trk=profile-badge">Aryan Patnaik</a></div>
               
 <p align="center"> 
   Visitor count<br>
