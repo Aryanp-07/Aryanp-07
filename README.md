@@ -41,6 +41,7 @@
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) -->
 
+<h3 align="left">GitHub Stats:</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryanp-07&theme=dark&background=000000)](https://git.io/streak-stats)
 
