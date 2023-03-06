@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aryan Patnaik</h1>
 <h3 align="center">A passionate coder trying to gain experience</h3>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/aryanp-07/count.svg" />
+</p>
+
 - 🌱 I’m currently learning **AWS, Python and WebDev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aryanp-07](https://github.com/Aryanp-07)
@@ -28,10 +33,5 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanp-07&show_icons=true&locale=en&layout=compact" alt="aryanp-07" /></p>
-
-<p><p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/aryanp-07/count.svg" />
-</p></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aryanp-07&label=Profile%20views&color=0e75b6&style=flat" alt="aryanp-07" /> </p>
