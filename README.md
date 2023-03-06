@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Patnaik</h1>
-<h3 align="center">A passionate coder trying to gain experience and confidence</h3>
+<h3 align="center">A passionate coder trying to gain experience</h3>
 
 - 🌱 I’m currently learning **AWS, Python and WebDev**
 
@@ -30,7 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanp-07&show_icons=true&locale=en&layout=compact" alt="aryanp-07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanp-07&" alt="aryanp-07" /></p>
-
-[![An image of @aryanp07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryanp07)](https://www.credly.com/users/aryan-patnaik)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aryanp-07&label=Profile%20views&color=0e75b6&style=flat" alt="aryanp-07" /> </p>
