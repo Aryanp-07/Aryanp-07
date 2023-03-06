@@ -31,6 +31,16 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+  
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+  ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino) 
+  ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+  ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
 
 | <a href="https://github.com/aryanp-07/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=aryanp-07&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aryan's github stats" /></a> | <a href="https://github.com/aryanp-07/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanp-07&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
