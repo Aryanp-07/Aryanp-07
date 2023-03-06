@@ -42,5 +42,5 @@
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) -->
 
 
-| <a href="https://github.com/aryanp-07/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=aryanp-07&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aryan's github stats" /></a> | <a href="https://github.com/aryanp-07/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanp-07&layout=compact&theme=buefy&hide_border=true" /></a> |
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryanp-07&theme=dark&background=000000)](https://git.io/streak-stats) | <a href="https://github.com/aryanp-07/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanp-07&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
