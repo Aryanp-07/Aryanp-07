@@ -31,6 +31,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanp-07&" alt="aryanp-07" /></p>
 
-[![An image of @aryanp07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryanp07)]([https://holopin.io/@aryanp07](https://www.credly.com/users/aryan-patnaik))
+[![An image of @aryanp07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryanp07)](https://www.credly.com/users/aryan-patnaik)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aryanp-07&label=Profile%20views&color=0e75b6&style=flat" alt="aryanp-07" /> </p>
