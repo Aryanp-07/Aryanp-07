@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Aryan Patnaik</h1>
+<h1 align="center">Hi, I'm Aryan Patnaik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="center">A passionate coder trying to gain experience</h3>
 
 <p align="center"> 
